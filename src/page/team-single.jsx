@@ -1,4 +1,4 @@
-import { Component, Fragment } from "react";
+import { Fragment } from "react";
 
 
 import Footer from "../component/layout/footer";
@@ -30,7 +30,7 @@ const memInfoLisst = [
     },
     {
         leftText: 'website',
-        rightText: 'www.adminedukon.com',
+        rightText: 'www.adminunnati.com',
     },
 ]
 

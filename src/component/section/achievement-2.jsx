@@ -2,17 +2,17 @@
 import CountUp from 'react-countup';
 
 const subTitle = "START TO SUCCESS";
-const title = "Achieve Your Goals With Edukon";
+const title = "Achieve Your Goals With Unnati";
 
 
 const achievementList = [
     {
-        count: '30',
+        count: '5',
         desc: 'Years of Language Education Experience',
     },
     {
         count: '3084',
-        desc: 'Learners Enrolled in Edukon Courses',
+        desc: 'Learners Enrolled in Unnati Courses',
     },
     {
         count: '330',

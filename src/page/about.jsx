@@ -11,11 +11,11 @@ import Student from "../component/section/student";
 
 
 
-const subTitle = "About Our Edukon";
-const title = "Good Qualification Services And Better Skills";
-const desc = "Distinctively provide acces mutfuncto users whereas transparent proceses somes ncentivize eficient functionalities rather than extensible archtectur communicate leveraged services and cross-platform.";
+const subTitle = "About Unnati";
+const title = "Your Gateway To Affordable and Accessible Education!";
+const desc = "At Unnati, we believe that education should know no bounds. Our mission is to empower students worldwide by providing high-quality courses at discounted prices. Whether you're looking to enhance your skills, explore new interests, or embark on a journey of lifelong learning, Unnati is here to support you every step of the way.";
 
-const year = "30+";
+const year = "5+";
 const expareance = "Years Of Experiences";
 
 
@@ -46,7 +46,7 @@ const AboutPage = () => {
     return ( 
         <Fragment>
             <Header />
-            <PageHeader title={'About Our Edukon'} curPage={'About'} />
+            <PageHeader title={'About Our Unnati'} curPage={'About'} />
             <div className="about-section style-3 padding-tb section-bg">
                 <div className="container">
                     <div className="row justify-content-center row-cols-xl-2 row-cols-1 align-items-center">

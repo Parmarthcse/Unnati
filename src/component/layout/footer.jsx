@@ -210,7 +210,7 @@ const Footer = () => {
                 <div className="footer-bottom style-2">
                     <div className="container">
                         <div className="section-wrapper">
-                            <p>&copy; 2022 <Link to="/">Edukon</Link> Designed by <a href="https://themeforest.net/user/CodexCoder" target="_blank">CodexCoder</a> </p>
+                            <p>&copy; 2024 <Link to="/"></Link> Designed by <a href="Prajwal Tripathi and Parmarth" target="_blank">Prajwal Tripathi and Parmarth</a> </p>
                         </div>
                     </div>
                 </div>
